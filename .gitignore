@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories (if using npm)
+node_modules/
+
+# Build output (if using bundlers like Webpack/Vite)
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders and settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment files (if any)
+.env
+.env.local
+.env.*.local
+
+# MacOS file
+*.DS_Store
+
+# Optional: Ignore compiled assets (if you're compiling SCSS/JS)
+*.map
+
+# Cache
+.cache/

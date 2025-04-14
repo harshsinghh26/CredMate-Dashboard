@@ -1,0 +1,21 @@
+{
+  "name": "credmate-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Frontend",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Harsh",
+  "license": "ISC",
+  "description": "It's a Loan Managment Website",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
