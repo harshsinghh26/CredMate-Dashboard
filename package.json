@@ -17,5 +17,9 @@
   "description": "It's a Loan Managment Website",
   "devDependencies": {
     "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "@google/genai": "^0.8.0",
+    "dotenv": "^16.5.0"
   }
 }
